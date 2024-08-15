@@ -1,0 +1,20 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+LTO_ENABLE = yes
+
+COMBO_ENABLE = no
+COMMAND_ENABLE = no
+DYNAMIC_MACRO_ENABLE = no
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+KEY_OVERRIDE_ENABLE = no
+MOUSEKEY_ENABLE = no
+QMK_SETTINGS = yes
+SEND_STRING_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+
+# eeprom setting
+EEPROM_DRIVER = vendor
+
+# Enable QMK Console for debugging
+# CONSOLE_ENABLE = yes
